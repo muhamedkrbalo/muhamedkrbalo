@@ -4,7 +4,6 @@
 <p align="center">
 🚀 4+ years building scalable, production-grade mobile applications <br>
 💡 Clean Architecture | Real-time Systems | Performance Optimization <br>
-📍 Cairo, Egypt
 </p>
 
 ---
