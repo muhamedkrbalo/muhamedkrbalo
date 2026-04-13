@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohamed Khaled</h1>
+<h3 align="center">Senior Flutter Developer | Mobile Engineer</h3>
 
-<!--
-**muhamedkrbalo/muhamedkrbalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Building scalable mobile apps with Flutter <br>
+💡 Passionate about clean architecture & performance optimization <br>
+📍 Based in Egypt
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 👨‍💻 Senior Flutter Developer with strong experience in building production apps
+- 📱 متخصص في Flutter + Android Native
+- ⚡ بشتغل بـ Clean Architecture + SOLID principles
+- 🔥 خبرة في:
+  - State Management (Bloc / Cubit)
+  - REST APIs & WebSockets
+  - Firebase (Auth, FCM, Firestore)
+  - Google Maps & Location Services
+- 🧪 بكتب Unit Tests باستخدام Mockito
+- 🚀 مهتم بالـ Performance Optimization & Scalable Apps
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+- Flutter / Dart
+- Android Native (Kotlin)
+
+### ⚙️ Architecture & Tools
+- Clean Architecture
+- MVC / MVVM
+- Dependency Injection
+
+### 🔗 Backend & Services
+- REST APIs
+- Firebase
+- Socket.IO / Pusher
+
+### 🧰 Tools
+- Git & GitHub
+- Postman
+- Figma
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhamedkrbalo&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamedkrbalo&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏆 Dar Auction App
+- Real-time bidding system using Socket.IO
+- Live updates & notifications
+- Payment & wallet integration
+- Google Maps integration
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+- 📱 Phone: +20xxxxxxxxxx
+
+---
+
+## ⚡ Fun Fact
+
+> I turn coffee ☕ into scalable mobile apps 📱
