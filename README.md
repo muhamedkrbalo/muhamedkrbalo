@@ -4,7 +4,6 @@
 <p align="center">
 🚀 Building scalable mobile apps with Flutter <br>
 💡 Passionate about clean architecture & performance optimization <br>
-📍 Based in Egypt
 </p>
 
 ---
