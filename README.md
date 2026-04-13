@@ -74,7 +74,8 @@
 ### 🏆 Dar Auction App
 Real-time real estate auction platform
 
-![Dar Auction](https://via.placeholder.com/800x400?text=Dar+Auction)
+![Uploading Home -Dar.png…]()
+
 
 - Real-time bidding (Socket.IO)
 - Live updates & notifications
