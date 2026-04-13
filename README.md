@@ -46,17 +46,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhamedkrbalo&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamedkrbalo&theme=tokyonight" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -70,9 +60,9 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
-- 📱 Phone: +20xxxxxxxxxx
+- 📧 Email: mohamedkrbalo@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/muhamed-khaled-367749200/
+- 📱 Phone: +201144118384
 
 ---
 
