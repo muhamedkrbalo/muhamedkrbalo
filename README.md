@@ -74,7 +74,7 @@
 ### 🏆 Dar Auction App
 Real-time real estate auction platform
 
-![Dar_auction](https://github.com/muhamedkrbalo/muhamedkrbalo/blob/main/Home.png?raw=true)
+![Dar_auction](https://github.com/muhamedkrbalo/muhamedkrbalo/blob/main/Home.png?raw=true)  ![Dar_auction](https://github.com/muhamedkrbalo/muhamedkrbalo/blob/main/Profile.png?raw=true)
 
 
 - Real-time bidding (Socket.IO)
