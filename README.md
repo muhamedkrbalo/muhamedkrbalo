@@ -74,9 +74,6 @@
 ### 🏆 Dar Auction App
 Real-time real estate auction platform
 
-![Dar_auction](https://github.com/muhamedkrbalo/muhamedkrbalo/blob/main/Home.png?raw=true)  ![Dar_auction](https://github.com/muhamedkrbalo/muhamedkrbalo/blob/main/Profile.png?raw=true)
-
-
 - Real-time bidding (Socket.IO)
 - Live updates & notifications
 - Wallet & payment integration
@@ -88,7 +85,6 @@ Real-time real estate auction platform
 ### 🚗 Best Touch
 Car wash service booking app
 
-![Best Touch](https://via.placeholder.com/800x400?text=Best+Touch)
 
 - Service booking system
 - Location-based services
@@ -99,7 +95,6 @@ Car wash service booking app
 ### 🥗 The Right Meal
 Healthy food platform (User + Operations apps)
 
-![The Right Meal](https://via.placeholder.com/800x400?text=The+Right+Meal)
 
 - Order & delivery tracking
 - Multi-role system (Delivery, Quality, Outlet)
@@ -110,8 +105,6 @@ Healthy food platform (User + Operations apps)
 ### 🍽️ My Catering
 Food packages booking app
 
-![My Catering](https://via.placeholder.com/800x400?text=My+Catering)
-
 - Package-based ordering system
 - Order tracking
 - Customizable options
@@ -121,24 +114,10 @@ Food packages booking app
 ### ⚽ Hattrick
 Football community platform
 
-![Hattrick](https://via.placeholder.com/800x400?text=Hattrick)
-
 - Players, agents & scouts platform
 - Sports news & discovery features
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhamedkrbalo&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamedkrbalo&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Contact Me
 
